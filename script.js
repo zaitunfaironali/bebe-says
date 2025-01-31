@@ -1,7 +1,7 @@
 const quotes = [
-    "Sonya once said: 'Coffee before anything, even editing.'",
-    "Sonya's wisdom: 'Cameron Monaghan is the only right answer.'",
-    "Sonya on editing: 'If it doesn’t have soul, it’s not worth editing.'",
+    "ill save my pookie ",
+    "mango pistachio or vanilla ALWAYS🤚🏻",
+    "guys i love watching nol in the rookie",
     "Sonya always says: 'No one needs math, just vibes.'"
 ];
 
